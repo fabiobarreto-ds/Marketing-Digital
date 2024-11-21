@@ -8,6 +8,7 @@ campanha, identificar oportunidades de otimização e escolher os melhores plano
 ação para alcançar a meta do quarter. O dashboard será uma ferramenta essencial
 para a tomada de decisão mais informada e estratégica.
 
+
     1. Gráfico de linhas da Receita total do período analisado e projeção para o próximo semestre através de regressão linear;
     2. Tabela receita matriz da origem (Anúncios pagos, busca orgânica, busca paga e e-mail marketing) subclassificados por gêneros x plataforma utilizada pelos clientes. Gerando a receita total;
     3. Indicador com a meta da receita e a receita total gerada no período;
